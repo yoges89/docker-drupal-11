@@ -1,0 +1,7 @@
+pgdata/*
+vendor/*
+drupal/web/core/*
+drupal/web/themes/contrib
+drupal/web/modules/contrib
+drupal/web/profiles/contrib
+drupal/web/libraries/contrib
